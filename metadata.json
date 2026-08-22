@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Lite Bharat",
+  "description": "A lightweight Instagram experience celebrating Indian culture with photo sharing, stories, reels, friend following, direct messaging, desi filters, music tracks, and AI desi caption generation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
